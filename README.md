@@ -1,7 +1,9 @@
-React Modularity 
+React Modularity:
+
 This is a simple landing page created with React. It includes a header, a footer, a button, and a few sections with placeholder content.
 
-Installation
+Installation:
+
 Clone this repository to your local machine:
 git clone https://github.com/larsswenson/react-modularity-assignment
 
